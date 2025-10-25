@@ -6,8 +6,6 @@
 Welcome to the **Workshop on Agentic AI & Rapid Prototyping**!  
 This repository contains all the Jupyter/Colab notebooks used during the sessions.  
 
-SERPER_API_KEY  b505b10409f4e548fcd56f9a34c088b6c7bbe380
-
 ## 📂 Workshop Structure & Notebooks  
 
 ### Session 1
