@@ -43,7 +43,7 @@ Pulling Changes from Remote:   		git pull origin branch_name
 ### Session 2: Introduction to Agentic AI & RAG Chatbot Setup  
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1kN4cRZlPxOUKTKkxwkAZXOQsVJS58BfR) 
 
-### Session 3: ReAct Logic
+### Session 2: ReAct Logic
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1N6CJoin66O4uikU_iL79F4iBS_jK6-4F)
 ## 🛠 Setup Instructions  
 
@@ -55,10 +55,45 @@ All notebooks are designed to run on **Google Colab** (free cloud-based Python e
 3. Run the cells step by step during the workshop.  
 
 ---
+# Session 3: Rapid Prototyping
+## Prompt for Claude/Replit/Cursor
+Create a Python script that generates assignments and quizzes based on a provided document or topic. 
+-The script should accept input text (document or topic) and output 2 assignment questions (e.g., essay prompts) and 3 multiple-choice quiz questions with options and answers. 
+-Use simple logic to parse the input (e.g., split by sentences or keywords) and print the results. 
+-Add Streamlit for the frontend.
 
-## 🎯 Workshop Outcomes  
 
-By the end of workshop day 1, you will have:  
+## 📚 Educational Content Generator
+
+An interactive **Streamlit-based tool** that generates **assignments** and **quiz questions** from text or PDF documents.  
+This project is designed for educators, students, and researchers who need quick educational content creation.
+
+
+## ✨ Features
+
+- 📝 **Input Options**
+  - Upload a **PDF file** (up to 50MB)
+  - Paste or type text directly
+  - Use the built-in **sample text** demo
+
+- 📄 **Assignments**
+  - Generates **2 essay-style questions**
+  - Comparative and analytical prompts
+
+- 🎯 **Quizzes**
+  - Creates **3 multiple-choice questions**
+  - Includes distractors and correct answers
+
+- 🔍 **Concept Extraction**
+  - Automatically identifies **key concepts** from text
+
+- 📤 **Export**
+  - Download generated results as a `.txt` file
+
+- 🎨 **Beautiful UI**
+  - Styled with custom CSS for clean display
+
+
 
 - ✅ A **RAG-based summarization chatbot**   
 - ✅ A **ReAct-enhanced agent**  
