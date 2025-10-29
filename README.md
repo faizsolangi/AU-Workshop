@@ -40,10 +40,10 @@ Pulling Changes from Remote:   		git pull origin branch_name
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1PJJDSMTl-y3fcE_u2uIMWlOBA8S-WSYn)
 
-### Session 2: Introduction to Agentic AI & RAG Chatbot Setup  
+### Agentic AI & RAG Chatbot Setup  
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1kN4cRZlPxOUKTKkxwkAZXOQsVJS58BfR) 
 
-### Session 2: ReAct Logic
+### ReAct Logic
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1N6CJoin66O4uikU_iL79F4iBS_jK6-4F)
 ## 🛠 Setup Instructions  
 
