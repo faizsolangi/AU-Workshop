@@ -94,9 +94,18 @@ This project is designed for educators, students, and researchers who need quick
   - Styled with custom CSS for clean display
 
 
+ # Agentic ARIMA
+## Prompt for Grok/Claude:
+Hey Grok/Claude, implement an agentic ARIMA app with:
+- Streamlit dashboard
+- Auto ARIMA
+- Buy/sell signals
+- Deployable on Render
+- Single file
 
-- ✅ A **RAG-based summarization chatbot**   
-- ✅ A **ReAct-enhanced agent**  
+  
+ 
+ 
 
 
 📌 **Tip for participants:** Bookmark this repo for future reference.  
